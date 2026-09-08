@@ -2,9 +2,14 @@
 __pycache__/
 *.py[codz]
 *$py.class
+*.pyc
 
 # C extensions
 *.so
+
+
+# Catboost generated files
+catboost_info/
 
 # Distribution / packaging
 .Python
